@@ -41,9 +41,9 @@ Please test and evaluate the method via the script in './experiments/'
 
 We present the partial evaluation results in the following and more results could be found in the supplementary material.
 
-<img align="center" src="./results/fig_mov.png" width="750">
+<img align="center" src="./results/fig_mov.png" width="550">
 
-<img align="center" src="./results/comp_results.png" width="750">
+<img align="center" src="./results/comp_results.png" width="550">
 
 
 ### Bibtex

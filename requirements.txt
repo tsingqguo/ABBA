@@ -1,6 +1,5 @@
 foolbox==2.3.0
 pytorchcv
-pyyaml==3.12
 numpy
 scipy
 pytorch=0.4.1
